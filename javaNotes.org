@@ -2228,7 +2228,7 @@ The collection framework represents a unified architecture for storing and manip
 ** Hierarchy of Collection Framework
 The *java.util* package contains all the =classes= and =interface= for the Collection framework.
 
-[[/media/xander/Backup/code/Notes/JAVA/img/javaCollectionHierarchy.png]]
+[[./img/javaCollectionHierarchy.png]]
 
 
 ** Methods of Collection interface
